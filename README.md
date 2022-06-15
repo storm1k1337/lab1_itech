@@ -35,10 +35,6 @@
 php
 ![6](images/6.png)
 
-select-1
-
-![7](images/8.png)
-
 select-1 result
 
 ![8](images/7.png)
