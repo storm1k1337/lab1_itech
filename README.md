@@ -7,6 +7,7 @@
 
 Задание
 ![0](images/1.png)
+
 База данных
 ![1](images/2.png)
 
@@ -21,25 +22,29 @@
 
 Таблица software
 ![5](images/5.png)
+
+index.php
+![6](images/6.png)
+
 select-1
-![8](images/8.png)
+![6](images/8.png)
 
 select-1 result
 
-![8](images/7.png)
+![7](images/7.png)
 
 select-2
 
-![9](images/9.png)
+![8](images/9.png)
 
 select-2 result
 
-![10](images/10.png)
+![9](images/10.png)
 
 select-3
 
-![11](images/11.png)
+![10](images/11.png)
 
 select-3 result
 
-![12](images/12.png)
+![11](images/12.png)
